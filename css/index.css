@@ -1,0 +1,91 @@
+@charset "utf-8";
+
+/* ---------- Index ---------- */
+
+div.index .span_hot .swiper-slide img {
+	width: 170px;
+	height: 170px;
+	display: block;
+}
+
+div.index .hotProduct {
+	margin-bottom: 10px;
+}
+
+div.index .hotProduct .title {
+	width: 80px;
+	height: 30px;
+	float: left;
+	margin-bottom: 10px;
+	background-color: #ef1313;
+}
+
+div.index .hotProduct .title strong {
+	line-height: 38px;
+	display: block;
+	float: left;
+	padding-left: 10px;
+	color: #ffffff;
+	font-size: 16px;
+	font-family: "Microsoft YaHei";
+}
+
+div.index .newProduct {
+	margin-bottom: 10px;
+}
+
+div.index .newProduct .title {
+	width: 80px;
+	height: 30px;
+	float: left;
+	margin-bottom: 10px;
+	background-color: #ef1313;
+}
+
+div.index .newProduct .title strong {
+	line-height: 38px;
+	display: block;
+	float: left;
+	padding-left: 10px;
+	color: #ffffff;
+	font-size: 16px;
+	font-family: "Microsoft YaHei";
+}
+
+div.index #like li{
+	float: left;
+}
+
+div.index #like li img{
+	width: 210px;
+	margin: 40px;
+}
+
+div.index .friendLink {
+	height: 30px;
+	line-height: 30px;
+	padding-left: 30px;
+	margin-bottom: 10px;
+	color: #ffffff;
+	background-color: #c5c5c5;
+}
+
+div.index .friendLink dt {
+	float: left;
+	padding: 0px 30px;
+	background-color: #6e6e6e;
+}
+
+div.index .friendLink dd {
+	float: left;
+}
+
+div.index .friendLink a {
+	margin: 0px 10px;
+	color: #ffffff;
+}
+
+div.index .friendLink .more {
+	float: right;
+	background-color: #6e6e6e;
+}
